@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0923-3sum-with-multiplicity](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0923-3sum-with-multiplicity](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## String
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0923-3sum-with-multiplicity](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Greedy
 |  |
 | ------- |
