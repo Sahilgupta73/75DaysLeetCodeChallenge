@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
