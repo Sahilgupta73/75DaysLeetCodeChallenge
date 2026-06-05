@@ -176,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
