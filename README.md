@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
