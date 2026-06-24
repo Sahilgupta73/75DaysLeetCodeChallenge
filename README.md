@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0969-pancake-sorting](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
@@ -236,20 +237,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 <!---LeetCode Topics End-->
