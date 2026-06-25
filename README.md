@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0969-pancake-sorting](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0918-maximum-sum-circular-subarray) |
