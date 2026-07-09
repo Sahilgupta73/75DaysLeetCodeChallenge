@@ -1,5 +1,4 @@
 class Solution(object):
-    # Sahil Gupta
     def twoSum(self, nums, target):
         num_map = {}   # dictionary to store number and its index
         
