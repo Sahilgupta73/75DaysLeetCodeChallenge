@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
