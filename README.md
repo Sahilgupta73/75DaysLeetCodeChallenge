@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Math
 |  |
 | ------- |
