@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1486-xor-operation-in-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
 |  |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [1486-xor-operation-in-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2652-sum-multiples) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
