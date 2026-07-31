@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [1486-xor-operation-in-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2652-sum-multiples) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
