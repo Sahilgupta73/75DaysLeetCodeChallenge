@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0923-3sum-with-multiplicity](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 ## Quickselect
 |  |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
