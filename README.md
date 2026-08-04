@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0086-partition-list](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0328-odd-even-linked-list) |
