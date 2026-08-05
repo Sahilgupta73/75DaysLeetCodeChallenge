@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0969-pancake-sorting](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1550-three-consecutive-odds](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1550-three-consecutive-odds) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
