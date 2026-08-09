@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0969-pancake-sorting](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
+| [1140-stone-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1550-three-consecutive-odds](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1550-three-consecutive-odds) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
+| [1140-stone-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Two Pointers
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0918-maximum-sum-circular-subarray) |
+| [1140-stone-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
 |  |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [1140-stone-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1486-xor-operation-in-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -391,4 +395,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
