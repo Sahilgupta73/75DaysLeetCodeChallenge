@@ -10,3 +10,11 @@ public:
         return gcd(sumOdd ,sumEven);
     }
 };
+
+// // 2nd Method(without doing anything) --> 
+// class Solution {
+// public:
+//     int gcdOfOddEvenSums(int n) {
+//         return n;
+//     }
+// };
