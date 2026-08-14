@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 ## Backtracking
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 ## Polygons
 |  |
