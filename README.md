@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [2974-minimum-number-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2974-minimum-number-game) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Queue
 |  |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0086-partition-list) |
 | [0206-reverse-linked-list](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
@@ -432,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
