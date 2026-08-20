@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0731-my-calendar-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [0860-lemonade-change](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0561-array-partition](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [0923-3sum-with-multiplicity](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [0969-pancake-sorting](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
+| [0561-array-partition](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0969-pancake-sorting](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -445,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0023-merge-k-sorted-lists) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
