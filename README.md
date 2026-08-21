@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0969-pancake-sorting](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1550-three-consecutive-odds](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1550-three-consecutive-odds) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Search Tree
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 ## Trie
