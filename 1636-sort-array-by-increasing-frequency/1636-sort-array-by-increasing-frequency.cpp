@@ -1,21 +1,24 @@
 class Solution {
 public:
     vector<int> frequencySort(vector<int>& nums) {
-        unordered_map<int, int> freq;
-
-        // Count frequency
+        unordered_map<int,int> map;
         for (int x : nums) {
-            freq[x]++;
+            map[x]++;
         }
-
-        // Sort based on frequency
-        sort(nums.begin(), nums.end(), [&](int a, int b) {
-            if (freq[a] == freq[b]) {
-                return a > b;   // larger number first
-            }
-            return freq[a] < freq[b]; // lower frequency first
+        vector<pair<int,int>> arr;
+        for (auto [key,value] : map) {
+            arr.push_back({value,key});
+        }
+        sort(arr.begin(),arr.end(), [](auto a,auto b){
+            if (a.first != b.first) return a.first <  b.first;
+            return a.second > b.second;
         });
-
+        int j = 0;
+        for (int i = 0;i<arr.size();i++) {
+            while (arr[i].first--) {
+                nums[j++] = arr[i].second;
+            }
+        }
         return nums;
     }
 };
