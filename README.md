@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2206-divide-array-into-equal-pairs) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2460-apply-operations-to-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2460-apply-operations-to-an-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-pancake-sorting](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2460-apply-operations-to-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2460-apply-operations-to-an-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [1920-build-array-from-permutation](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1920-build-array-from-permutation) |
+| [2460-apply-operations-to-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2460-apply-operations-to-an-array) |
 | [2974-minimum-number-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3925-concatenate-array-with-reverse) |
