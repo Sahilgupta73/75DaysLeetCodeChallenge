@@ -6,8 +6,7 @@ public:
         for(int i = 0; i<n; i++){
             if(nums[i]!=val ){
                 nums[k] = nums[i];
-                k = k+1;
-                
+                k = k+1; 
             }
         }
         return k;
