@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
+| [1518-water-bottles](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1920-build-array-from-permutation) |
 | [2460-apply-operations-to-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2460-apply-operations-to-an-array) |
 | [2974-minimum-number-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2974-minimum-number-game) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1486-xor-operation-in-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
+| [1518-water-bottles](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1518-water-bottles) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
