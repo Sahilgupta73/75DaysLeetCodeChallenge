@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [1140-stone-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3354-make-array-elements-equal-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2460-apply-operations-to-an-array) |
 | [2974-minimum-number-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3925-concatenate-array-with-reverse](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3925-concatenate-array-with-reverse) |
 ## Design
 |  |
