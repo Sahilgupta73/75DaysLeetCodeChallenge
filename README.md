@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0923-3sum-with-multiplicity](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2351-first-letter-to-appear-twice) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Quickselect
 |  |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1486-xor-operation-in-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2351-first-letter-to-appear-twice) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
