@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1486-xor-operation-in-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
@@ -475,11 +476,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 ## Sprague–Grundy Theorem
 |  |
@@ -503,4 +507,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
