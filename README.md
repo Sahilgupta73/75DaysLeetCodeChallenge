@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0457-circular-array-loop) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [0923-3sum-with-multiplicity](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [0969-pancake-sorting](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0457-circular-array-loop](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0457-circular-array-loop) |
 | [0923-3sum-with-multiplicity](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0923-3sum-with-multiplicity) |
 | [0969-pancake-sorting](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0969-pancake-sorting) |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0349-intersection-of-two-arrays](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0731-my-calendar-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
