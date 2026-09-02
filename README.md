@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0566-reshape-the-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0731-my-calendar-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0731-my-calendar-ii) |
 | [0860-lemonade-change](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0566-reshape-the-matrix](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [1518-water-bottles](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1920-build-array-from-permutation) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0566-reshape-the-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
