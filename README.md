@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3903-smallest-stable-index-i](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3903-smallest-stable-index-i](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
