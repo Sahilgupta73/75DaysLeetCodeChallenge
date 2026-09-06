@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0500-keyboard-row](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0500-keyboard-row) |
 | [0657-robot-return-to-origin](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1486-xor-operation-in-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2206-divide-array-into-equal-pairs) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1486-xor-operation-in-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
