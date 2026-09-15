@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0182-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0584-find-customer-referee) |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1795-rearrange-products-table](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1795-rearrange-products-table) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Stack
