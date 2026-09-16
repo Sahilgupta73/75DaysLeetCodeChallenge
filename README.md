@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0918-maximum-sum-circular-subarray) |
+| [1025-divisor-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1486-xor-operation-in-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
@@ -551,8 +554,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
