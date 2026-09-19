@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [1518-water-bottles](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1518-water-bottles) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Monotonic Stack
 |  |
