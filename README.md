@@ -419,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 | [1510-stone-game-iv](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1510-stone-game-iv) |
 | [1518-water-bottles](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1518-water-bottles) |
