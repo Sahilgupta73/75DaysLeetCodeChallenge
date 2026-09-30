@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -394,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1486-xor-operation-in-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
@@ -579,4 +583,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
