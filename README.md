@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0457-circular-array-loop) |
+| [0485-max-consecutive-ones](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sahilgupta73/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
